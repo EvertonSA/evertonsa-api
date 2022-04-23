@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "generator-jhipster-dotnetcore": "^3.4.0"
+  }
+}

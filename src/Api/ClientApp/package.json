@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "ci:frontend:build": "npm run webapp:build:$npm_package_config_default_environment",
+    "ci:frontend:test": "npm run ci:frontend:build && npm test",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "concurrently": "7.1.0",
+    "husky": "7.0.4",
+    "lint-staged": "12.3.7",
+    "wait-on": "6.0.1"
+  }
+}
