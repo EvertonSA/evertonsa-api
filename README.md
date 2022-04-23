@@ -1,5 +1,7 @@
 # api
 
+[![GitHub Actions Demo](https://github.com/EvertonSA/evertonsa-api/actions/workflows/develop.yaml/badge.svg)](https://github.com/EvertonSA/evertonsa-api/actions/workflows/develop.yaml)
+
 This application was generated using JHipster 7.8.1 and JHipster .Net Core 3.4.0, you can find documentation and help at https://jhipsternet.readthedocs.io/en/latest/index.html and [https://www.jhipster.tech/documentation-archive/v7.8.1](https://www.jhipster.tech/documentation-archive/v7.8.1).
 
 ## Development
@@ -159,3 +161,4 @@ docker-compose -f .\docker\app.yml up
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
 [definitelytyped]: http://definitelytyped.org/
+
